@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:8000';
+const BASE_URL = 'https://sih2026-1-cuo7.onrender.com';
 const API_V1 = `${BASE_URL}/api/v1`;
 
 export const apiClient = {
