@@ -1,0 +1,23 @@
+[theme]
+# Electric Indigo Primary Accent
+primaryColor = "#4F46E5"
+
+# Neutral Deep Slate/Zinc Canvas (#09090b)
+backgroundColor = "#09090B"
+
+# Dark Slate Surface & Sidebar (#18181b)
+secondaryBackgroundColor = "#18181B"
+
+# High-Contrast Off-White Text
+textColor = "#F4F4F5"
+
+# Clean Modern Sans-Serif Typography
+font = "sans serif"
+
+[client]
+showErrorDetails = false
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
